@@ -1,5 +1,9 @@
+
 # ECG_Analyze
 Import your raw ECG timeseries and export several metrics such as BPM and Heart Rate Variability (HRV) measures both in the time and frequency domains.
+
+HOW TO INSTALL
+Download the ECG_Analyzer.mlappinstall file and double click on it.
 
 MAIN INTERFACE
 On the left hand, you can find interactive tools to import and preprocess your data.
